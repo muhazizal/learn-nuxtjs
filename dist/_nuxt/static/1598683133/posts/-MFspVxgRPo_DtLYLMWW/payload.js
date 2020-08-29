@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/posts/-MFspVxgRPo_DtLYLMWW", (function(a){return {data:[{loadedPost:{author:a,content:a,previewText:a,thumbnail:"https:\u002F\u002Fpicsum.photos\u002Fseed\u002Fpicsum\u002F200\u002F300",title:a,updatedDate:"2020-08-29T06:10:55.640Z"}}],fetch:[],mutations:[]}}("teste")));
